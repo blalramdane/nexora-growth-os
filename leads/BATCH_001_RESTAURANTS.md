@@ -154,3 +154,53 @@ Before any outreach:
 
 ## Approval Gate
 No external contact has been made from this batch.
+
+
+## Decision-Maker & Contact Research — Pass 1
+
+### Spinoza F&B Solutions
+- Public contact route: official website/franchise application.
+- The official site exposes a franchise application and asks applicants for LinkedIn/business details.
+- No current named decision-maker was verified from the reviewed public sources.
+- Buying/operational signal strengthened: the company explicitly describes a franchise framework focused on optimizing sales/profit and service quality, and states an expansion trajectory toward 20+ locations.
+- Revised score: 70 (ICP 25 + Pain 5 + Buying 20 + Digital 15 + Decision Maker 0 + Urgency 5).
+- Priority: P2.
+
+### Willy's Kitchen
+- Official contact channels: hotline 19256, WhatsApp 01200003680, email info@willys-kitchen.com.
+- Official locations page currently shows 13 branches.
+- Official site has online ordering, payment, pickup, delivery and loyalty-related workflows.
+- No named current decision-maker verified.
+- Important signal: the business operates a centralized online-ordering platform and customer-support channel across locations. This is an integration/optimization signal, not proof of a pain point.
+- Revised score: 55 (ICP 25 + Pain 5 + Buying 10 + Digital 15 + Decision Maker 0 + Urgency 0).
+- Priority: P3.
+
+### Kilo Kabab
+- Official site currently lists 9 branch locations across Cairo/Giza/Alexandria and branch-level order/menu flows.
+- Public business-directory research identifies Adel Moustafa as a key principal / marketing manager. This is third-party data and should be re-verified before direct outreach.
+- Official site shows one branch with online ordering marked "Coming Soon"; another public menu source currently marks online ordering unavailable. These are useful digital-friction signals but are not proof of internal pain.
+- Revised score: 55 (ICP 25 + Pain 10 + Buying 10 + Digital 10 + Decision Maker 0 + Urgency 0).
+- Priority: P3.
+- Contact status: public business phone numbers exist, but no direct personal number should be treated as verified decision-maker contact.
+
+### GAD
+- Official site exposes branch selection, delivery/pickup ordering and cashback.
+- Official site identifies the operating entity as GAD GROUP FOR RESTURANT MANAGEMENT.
+- No named current decision-maker verified.
+- Digital ordering is mature; no concrete pain verified.
+- Revised score: 45 (ICP 25 + Pain 5 + Buying 5 + Digital 10 + Decision Maker 0 + Urgency 0).
+- Priority: P3.
+
+### Eatery
+- Official site currently lists six locations and multiple contact numbers.
+- Historical public reporting from 2020 identifies Omar Fathy as founder and co-owner. This is historical evidence, not a current decision-maker verification.
+- The current site demonstrates a multi-location operating footprint and booking/menu workflows.
+- Revised score: 50 (ICP 25 + Pain 5 + Buying 5 + Digital 10 + Decision Maker 5 + Urgency 0).
+- Priority: P3.
+- Decision-maker status: historical lead only; re-verify current role before outreach.
+
+## Contact Rules
+- Public business contact ≠ verified decision-maker.
+- Historical founder information ≠ current decision-maker.
+- Third-party directory data requires re-verification.
+- No direct outreach has been sent.
